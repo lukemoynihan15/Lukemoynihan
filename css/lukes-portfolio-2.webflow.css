@@ -268,7 +268,8 @@ p {
 }
 
 .section-title-group {
-  margin-bottom: 90px;
+  margin-bottom: 60px;
+  padding-bottom: 25px;
 }
 
 .form-field {
