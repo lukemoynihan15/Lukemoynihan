@@ -237,7 +237,6 @@ p {
 
 .section-heading {
   margin-top: 10px;
-  margin-bottom: 16px;
 }
 
 .section-heading.centered {
@@ -268,7 +267,7 @@ p {
 }
 
 .section-title-group {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   padding-bottom: 25px;
 }
 
